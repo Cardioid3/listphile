@@ -6,12 +6,12 @@ Given one or more base folders, it recursively traverses descendant folders and 
 
 ## Installation
 ```
-pip install git+https://github.com/SilverCardioid/listphile.git
+pip install git+https://github.com/Cardioid3/listphile.git
 ```
 
 To include optional dependencies for audio metadata support:
 ```
-pip install "listphile[audio] @ git+https://github.com/SilverCardioid/listphile.git"
+pip install "listphile[audio] @ git+https://github.com/Cardioid3/listphile.git"
 ```
 
 
